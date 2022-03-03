@@ -1,4 +1,4 @@
-# meal_app
+# meal_app with flutter
 
 A new Flutter application.
 <p float="left">
